@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+h1{
+    color: white;
+}
+.container{ 
+    border: 10px solid black;
+    text-align: center;
+    margin-top: 50px;
+    height: 250px;
+    background-color: #24aa5c;
+}
+button{
+    width: 100px;
+    height: 120px;
+    border-radius: 60px;
+    margin: 40px;
+    
+}
